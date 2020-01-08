@@ -17,6 +17,8 @@
 
   <!-- Custom styles for this template-->
   <link href="<?=URL_BASE?>assets/css/sb-admin-2.min.css" rel="stylesheet">
+  
+  <script src="<?=URL_BASE?>assets/sweetalert2/sweetalert2.all.js"></script>
 
 </head>
 
